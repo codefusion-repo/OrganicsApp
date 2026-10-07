@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_green">#246B5B</color>
+    <color name="brand_aqua">#4FAE98</color>
+    <color name="brand_background">#F4F9F6</color>
+    <color name="brand_surface">#FFFFFF</color>
+</resources>

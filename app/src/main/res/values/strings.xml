@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrganicsApp</string>
+    <string name="offer_channel_name">Ofertas especiales</string>
+    <string name="offer_channel_description">Promociones y descuentos de OrganicsApp.</string>
+    <string name="offer_notification_title">Oferta especial en OrganicsApp</string>
+    <string name="offer_notification_body">Hay productos seleccionados con descuento por tiempo limitado.</string>
+</resources>
